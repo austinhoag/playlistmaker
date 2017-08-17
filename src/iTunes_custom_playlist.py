@@ -88,6 +88,8 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
 
     nwithplays = session.query(Track).filter(Track.plays>0).count()
     assert nwithplays>=10, "Your iTunes library must have at least 10 tracks with >0 plays"
+    ntracks = session.query(Track.id).order_by(Track.id).count()
+    assert ntracks >= 150, "Your iTunes library must contain at least 150 tracks"
 
     def get_duplicated_attrs(attr):
         return session.query(Track).group_by(getattr(Track,attr)).\
