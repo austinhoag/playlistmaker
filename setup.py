@@ -1,6 +1,7 @@
 from distutils.core import setup
-
+import sys
 from imp import find_module
+
 try: find_module('sqlalchemy')
 except: sys.exit('### Error: python module sqlalchemy not found')
 
