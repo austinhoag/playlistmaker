@@ -2,8 +2,8 @@
 Makes a recommended iTunes playlist from an existing iTunes library 
 
 ## REQUIREMENTS
-sqlalchemy - python package which is used to create and interact with an SQLite database
-can be installed with pip, e.g. pip install sqlalchemy
+sqlalchemy - python package which is used to create and interact with an SQLite database.
+It can be installed with pip, e.g. pip install sqlalchemy
 
 An iTunes Library xml file - export this from iTunes with File->Library->Export Library
 
