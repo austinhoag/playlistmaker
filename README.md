@@ -1,5 +1,8 @@
 # playlistmaker
-Makes a recommended iTunes playlist from an existing iTunes library 
+Makes a recommended iTunes playlist from an existing iTunes library.
+The code looks through a provided iTunes library xml file for your 
+most-played tracks and finds other tracks in your library which 
+are similar and builds a playlist based off of them. 
 
 ## REQUIREMENTS
 sqlalchemy - python package which is used to create and interact with an SQLite database.
