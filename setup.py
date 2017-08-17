@@ -28,5 +28,5 @@ setup(name='iTunes_custom_playlist',
       author='Austin Hoag',
       author_email='austinthomashoag@gmail.com',
       url='https://github.com/athoag/playlistmaker',
-      py_modules=['iTunes_custom_playlist']
+      py_modules=['src/iTunes_custom_playlist']
       )
