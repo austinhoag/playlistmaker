@@ -1,4 +1,6 @@
+#Copyright (c) [2017] [Austin Hoag]
 
+import argparse
 
 def make_playlist(mylib_xml,output_xml_file,playlist_name):
     ''' '''
@@ -16,6 +18,8 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
     from sqlalchemy import Column, Integer, String
     from sqlalchemy import Sequence
     from sqlalchemy import func,text,and_,or_
+    from sqlalchemy.orm import sessionmaker
+    import operator
 
     class Track(Base,):
         __tablename__ = 'tracks'
@@ -34,7 +38,6 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
     Base.metadata.create_all(engine)
 
     # Creating a session
-    from sqlalchemy.orm import sessionmaker
     Session = sessionmaker(bind=engine) # don't actually need an engine yet to start a session
     # In that case, run Session.configure(bind=engine) once engine is available
 
@@ -82,6 +85,9 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
     populate_tracks()
 
     session.commit() # flushes the remaining changes to the database, 
+
+    nwithplays = session.query(Track).filter(Track.plays>0).count()
+    assert nwithplays>=10, "Your iTunes library must have at least 10 tracks with >0 plays"
 
     def get_duplicated_attrs(attr):
         return session.query(Track).group_by(getattr(Track,attr)).\
@@ -150,7 +156,7 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
             ranked_matching_tracks[track]+=1
 
     # now sort by count
-    import operator
+    
     sorted_matches = sorted(ranked_matching_tracks.items(), key=operator.itemgetter(1),reverse=True)
 
     # Now let's figure out the maximum number of counts 
@@ -186,9 +192,7 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
     # I exported the playlist as test_playlist.xml
     # Let's take a quick look at it 
 
-    # In[726]:
 
-    import plistlib
     playlist_xml = '/Users/athair/progs/sql/test_playlist.xml'
     plist_playlist = plistlib.readPlist(playlist_xml) 
 
@@ -218,7 +222,6 @@ def make_playlist(mylib_xml,output_xml_file,playlist_name):
 
 
 if __name__ == "__main__":
-    import argparse
     parser = argparse.ArgumentParser(description='create recommended iTunes playlist')
     parser.add_argument('input_xml_file',help='The exported xml iTunes library file')
     parser.add_argument('-output_xml_file',default='My_custom_playlist.xml',help='The xml iTunes library filename you want to export')
