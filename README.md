@@ -21,4 +21,4 @@ Import this playlist to iTunes using File->Library->Import Playlist
 
 This will create a new playlist called 'My Custom Playlist'
 
-It will automatically appear as a playlist on the sidebar alonge with your other playlists once imported
+It will automatically appear as a playlist on the sidebar along with your other playlists once imported
