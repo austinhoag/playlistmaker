@@ -1,0 +1,5155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application Version</key>
+	<string>12.5.4.42</string>
+	<key>Date</key>
+	<date>2017-08-14T21:55:34Z</date>
+	<key>Features</key>
+	<integer>5</integer>
+	<key>Library Persistent ID</key>
+	<string>CD351DB6EFCFB36C</string>
+	<key>Major Version</key>
+	<integer>1</integer>
+	<key>Minor Version</key>
+	<integer>1</integer>
+	<key>Music Folder</key>
+	<string>file:///Users/athair/Music/iTunes/iTunes%20Media/</string>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>All Items</key>
+			<true/>
+			<key>Description</key>
+			<string></string>
+			<key>Name</key>
+			<string>My Custom Playlist</string>
+			<key>Playlist ID</key>
+			<integer>9999</integer>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key>
+					<integer>456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>646</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>662</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>1114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>520</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>502</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>498</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>522</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>614</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>524</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>616</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key>
+					<integer>652</integer>
+				</dict>
+			</array>
+			<key>Playlist Persistent ID</key>
+			<string>4AD8FA82E226F9B9</string>
+		</dict>
+	</array>
+	<key>Show Content Ratings</key>
+	<true/>
+	<key>Tracks</key>
+	<dict>
+		<key>1114</key>
+		<dict>
+			<key>Album</key>
+			<string>Sounds Of Summer</string>
+			<key>Artist</key>
+			<string>The Beach Boys</string>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Compilation</key>
+			<true/>
+			<key>Composer</key>
+			<string>The Beach Boys</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:01:44Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-26T03:46:59Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Compilations/Sounds%20Of%20Summer/21%20Barbara%20Ann%20(Single%20Version).mp3</string>
+			<key>Name</key>
+			<string>Barbara Ann (Single Version)</string>
+			<key>Persistent ID</key>
+			<string>4B5FAC7444F035AA</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>2682222</integer>
+			<key>Sort Artist</key>
+			<string>Beach Boys</string>
+			<key>Sort Composer</key>
+			<string>Beach Boys</string>
+			<key>Total Time</key>
+			<integer>133982</integer>
+			<key>Track Count</key>
+			<integer>30</integer>
+			<key>Track ID</key>
+			<integer>1114</integer>
+			<key>Track Number</key>
+			<integer>21</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2003</integer>
+		</dict>
+		<key>1116</key>
+		<dict>
+			<key>Album</key>
+			<string>Sounds Of Summer</string>
+			<key>Artist</key>
+			<string>The Beach Boys</string>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Compilation</key>
+			<true/>
+			<key>Composer</key>
+			<string>The Beach Boys</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:01:44Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-26T03:48:49Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Compilations/Sounds%20Of%20Summer/30%20Good%20Vibrations.mp3</string>
+			<key>Name</key>
+			<string>Good Vibrations</string>
+			<key>Persistent ID</key>
+			<string>995668DC744D9EA6</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4384870</integer>
+			<key>Sort Artist</key>
+			<string>Beach Boys</string>
+			<key>Sort Composer</key>
+			<string>Beach Boys</string>
+			<key>Total Time</key>
+			<integer>219115</integer>
+			<key>Track Count</key>
+			<integer>30</integer>
+			<key>Track ID</key>
+			<integer>1116</integer>
+			<key>Track Number</key>
+			<integer>30</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2003</integer>
+		</dict>
+		<key>1128</key>
+		<dict>
+			<key>Artist</key>
+			<string>Cranberries</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Converted by snoopy® (vns_snoopy@yahoo.com)</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:06:25Z</date>
+			<key>Date Modified</key>
+			<date>2007-09-12T23:06:19Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Cranberries/Unknown%20Album/Zombie.MP3</string>
+			<key>Name</key>
+			<string>Zombie</string>
+			<key>Persistent ID</key>
+			<string>1FD33DC5AC7F52B5</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4935105</integer>
+			<key>Total Time</key>
+			<integer>309002</integer>
+			<key>Track ID</key>
+			<integer>1128</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>1130</key>
+		<dict>
+			<key>Album</key>
+			<string>The Cream Of Clapton</string>
+			<key>Artist</key>
+			<string>Cream</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Jack Bruce/Pete Brown</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:06:26Z</date>
+			<key>Date Modified</key>
+			<date>2005-08-24T03:43:39Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Cream/The%20Cream%20Of%20Clapton/01%20I%20Feel%20Free.mp3</string>
+			<key>Name</key>
+			<string>I Feel Free</string>
+			<key>Persistent ID</key>
+			<string>74250562EE6BC020</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4161846</integer>
+			<key>Sort Album</key>
+			<string>Cream Of Clapton</string>
+			<key>Total Time</key>
+			<integer>173322</integer>
+			<key>Track Count</key>
+			<integer>19</integer>
+			<key>Track ID</key>
+			<integer>1130</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>1132</key>
+		<dict>
+			<key>Album</key>
+			<string>The Cream Of Clapton</string>
+			<key>Artist</key>
+			<string>Cream</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Eric Clapton/Jack Bruce/Pete Brown</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:06:26Z</date>
+			<key>Date Modified</key>
+			<date>2007-01-13T20:08:20Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Cream/The%20Cream%20Of%20Clapton/02%20Sunshine%20Of%20Your%20Love.mp3</string>
+			<key>Name</key>
+			<string>Sunshine Of Your Love</string>
+			<key>Persistent ID</key>
+			<string>063233DF45F47204</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6047820</integer>
+			<key>Sort Album</key>
+			<string>Cream Of Clapton</string>
+			<key>Total Time</key>
+			<integer>251898</integer>
+			<key>Track Count</key>
+			<integer>19</integer>
+			<key>Track ID</key>
+			<integer>1132</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>1138</key>
+		<dict>
+			<key>Album</key>
+			<string>The Cream Of Clapton</string>
+			<key>Artist</key>
+			<string>Cream</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Robert Johnson</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:06:26Z</date>
+			<key>Date Modified</key>
+			<date>2005-08-24T03:44:18Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Cream/The%20Cream%20Of%20Clapton/04%20Crossroads.mp3</string>
+			<key>Name</key>
+			<string>Crossroads</string>
+			<key>Persistent ID</key>
+			<string>0B71C8ECA31929F6</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6162408</integer>
+			<key>Sort Album</key>
+			<string>Cream Of Clapton</string>
+			<key>Total Time</key>
+			<integer>256679</integer>
+			<key>Track Count</key>
+			<integer>19</integer>
+			<key>Track ID</key>
+			<integer>1138</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>1140</key>
+		<dict>
+			<key>Album</key>
+			<string>The Cream Of Clapton</string>
+			<key>Artist</key>
+			<string>Cream</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Eric Clapton/George Harrison</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:06:26Z</date>
+			<key>Date Modified</key>
+			<date>2007-01-13T20:08:39Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Cream/The%20Cream%20Of%20Clapton/05%20Badge.mp3</string>
+			<key>Name</key>
+			<string>Badge</string>
+			<key>Persistent ID</key>
+			<string>B07096D93681C664</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4004605</integer>
+			<key>Sort Album</key>
+			<string>Cream Of Clapton</string>
+			<key>Total Time</key>
+			<integer>166765</integer>
+			<key>Track Count</key>
+			<integer>19</integer>
+			<key>Track ID</key>
+			<integer>1140</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>1148</key>
+		<dict>
+			<key>Album</key>
+			<string>Chronicles</string>
+			<key>Artist</key>
+			<string>Credence Clearwater Revival</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T05:06:26Z</date>
+			<key>Date Modified</key>
+			<date>2007-01-13T20:15:51Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Credence%20Clearwater%20Revival/Chronicles/03%20Proud%20Mary.mp3</string>
+			<key>Name</key>
+			<string>Proud Mary</string>
+			<key>Persistent ID</key>
+			<string>B949ABA5499E91AF</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4537469</integer>
+			<key>Total Time</key>
+			<integer>188969</integer>
+			<key>Track ID</key>
+			<integer>1148</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>288</key>
+		<dict>
+			<key>Album</key>
+			<string>The Raw Dents</string>
+			<key>Album Artist</key>
+			<string>Dead Rider</string>
+			<key>Artist</key>
+			<string>Dead Rider</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Composer</key>
+			<string>Todd Rittmann</string>
+			<key>Date Added</key>
+			<date>2011-06-25T20:15:54Z</date>
+			<key>Date Modified</key>
+			<date>2017-03-01T12:21:21Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>Purchased AAC audio file</string>
+			<key>Name</key>
+			<string>Mothers Meat</string>
+			<key>Persistent ID</key>
+			<string>829BD4566F6EDC5A</string>
+			<key>Purchased</key>
+			<true/>
+			<key>Release Date</key>
+			<date>2011-05-24T07:00:00Z</date>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>9086011</integer>
+			<key>Sort Album</key>
+			<string>Raw Dents</string>
+			<key>Sort Artist</key>
+			<string>Dead Rider</string>
+			<key>Sort Name</key>
+			<string>Mothers Meat</string>
+			<key>Total Time</key>
+			<integer>227440</integer>
+			<key>Track Count</key>
+			<integer>9</integer>
+			<key>Track ID</key>
+			<integer>288</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+			<key>Year</key>
+			<integer>2011</integer>
+		</dict>
+		<key>332</key>
+		<dict>
+			<key>Artist</key>
+			<string>ACDC</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T02:50:32Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T20:55:12Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/ACDC/Unknown%20Album/Thunderstruck.mp3</string>
+			<key>Name</key>
+			<string>Thunderstruck</string>
+			<key>Persistent ID</key>
+			<string>C5A31A0B1BFDD681</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4678889</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-15T06:50:45Z</date>
+			<key>Total Time</key>
+			<integer>292414</integer>
+			<key>Track ID</key>
+			<integer>332</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>198</integer>
+		</dict>
+		<key>450</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/10%20Video.mp3</string>
+			<key>Name</key>
+			<string>Video</string>
+			<key>Persistent ID</key>
+			<string>C4A0B706A71A3DEC</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7959912</integer>
+			<key>Total Time</key>
+			<integer>247849</integer>
+			<key>Track ID</key>
+			<integer>450</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>452</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:36Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/11%20The%20Last%20Polka.mp3</string>
+			<key>Name</key>
+			<string>The Last Polka</string>
+			<key>Persistent ID</key>
+			<string>39819C9516777B5F</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>8810050</integer>
+			<key>Sort Name</key>
+			<string>Last Polka</string>
+			<key>Total Time</key>
+			<integer>274416</integer>
+			<key>Track ID</key>
+			<integer>452</integer>
+			<key>Track Number</key>
+			<integer>11</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>454</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:36Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/12%20Boxing.mp3</string>
+			<key>Name</key>
+			<string>Boxing</string>
+			<key>Persistent ID</key>
+			<string>ACF29778440C2E49</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>9152769</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-15T06:13:16Z</date>
+			<key>Total Time</key>
+			<integer>285126</integer>
+			<key>Track ID</key>
+			<integer>454</integer>
+			<key>Track Number</key>
+			<integer>12</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>456</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/02%20Philosophy.mp3</string>
+			<key>Name</key>
+			<string>Philosophy</string>
+			<key>Persistent ID</key>
+			<string>6B822609B3DC5B50</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>8879427</integer>
+			<key>Total Time</key>
+			<integer>276584</integer>
+			<key>Track ID</key>
+			<integer>456</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>458</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/03%20Julianne.mp3</string>
+			<key>Name</key>
+			<string>Julianne</string>
+			<key>Persistent ID</key>
+			<string>ECA9ACFC92709FFA</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4862002</integer>
+			<key>Total Time</key>
+			<integer>151040</integer>
+			<key>Track ID</key>
+			<integer>458</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>460</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/04%20Where's%20Summer%20B._.mp3</string>
+			<key>Name</key>
+			<string>Where's Summer B.?</string>
+			<key>Persistent ID</key>
+			<string>96D8C18920E4A269</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7951566</integer>
+			<key>Total Time</key>
+			<integer>247588</integer>
+			<key>Track ID</key>
+			<integer>460</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>466</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/07%20Sports%20&amp;%20Wine.mp3</string>
+			<key>Name</key>
+			<string>Sports &amp; Wine</string>
+			<key>Persistent ID</key>
+			<string>E73F423CF8CF6F59</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5737213</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-12T04:54:14Z</date>
+			<key>Total Time</key>
+			<integer>178390</integer>
+			<key>Track ID</key>
+			<integer>466</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>468</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/08%20Uncle%20Walter.mp3</string>
+			<key>Name</key>
+			<string>Uncle Walter</string>
+			<key>Persistent ID</key>
+			<string>F1ABA3A6EA379185</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7428275</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-12T04:54:24Z</date>
+			<key>Total Time</key>
+			<integer>231235</integer>
+			<key>Track ID</key>
+			<integer>468</integer>
+			<key>Track Number</key>
+			<integer>8</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>470</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Five</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Ben%20Folds%20Five/09%20Best%20Imitation%20Of%20Myself.mp3</string>
+			<key>Name</key>
+			<string>Best Imitation Of Myself</string>
+			<key>Persistent ID</key>
+			<string>29370A4A8714239F</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5106106</integer>
+			<key>Total Time</key>
+			<integer>158667</integer>
+			<key>Track ID</key>
+			<integer>470</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1995</integer>
+		</dict>
+		<key>472</key>
+		<dict>
+			<key>Album</key>
+			<string>mix</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:03Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>genre</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Fold's%20Five/mix/11%20Kate.mp3</string>
+			<key>Name</key>
+			<string>Kate</string>
+			<key>Persistent ID</key>
+			<string>B8D737CCB17C55E5</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3133440</integer>
+			<key>Total Time</key>
+			<integer>195735</integer>
+			<key>Track ID</key>
+			<integer>472</integer>
+			<key>Track Number</key>
+			<integer>11</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>474</key>
+		<dict>
+			<key>Album</key>
+			<string>mix</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:04Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>genre</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Fold's%20Five/mix/14%20Philosophy.mp3</string>
+			<key>Name</key>
+			<string>Philosophy</string>
+			<key>Persistent ID</key>
+			<string>0D0396D345F81CA2</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3447279</integer>
+			<key>Total Time</key>
+			<integer>215327</integer>
+			<key>Track ID</key>
+			<integer>474</integer>
+			<key>Track Number</key>
+			<integer>14</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>476</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:38Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/01%20Eddie%20Walker.mp3</string>
+			<key>Name</key>
+			<string>Eddie Walker</string>
+			<key>Persistent ID</key>
+			<string>32AB0DC648A52E08</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6430555</integer>
+			<key>Total Time</key>
+			<integer>200071</integer>
+			<key>Track ID</key>
+			<integer>476</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>478</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:40Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/10%20The%20Ultimate%20Sacrifice%20(Live%20At%20Lupo's).mp3</string>
+			<key>Name</key>
+			<string>The Ultimate Sacrifice (Live At Lupo's)</string>
+			<key>Persistent ID</key>
+			<string>0AE701BE569CFADA</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6703928</integer>
+			<key>Sort Name</key>
+			<string>Ultimate Sacrifice (Live At Lupo's)</string>
+			<key>Total Time</key>
+			<integer>208613</integer>
+			<key>Track ID</key>
+			<integer>478</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>480</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:40Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/11%20Satan%20Is%20My%20Master%20(Live%20At%20Ziggy's).mp3</string>
+			<key>Name</key>
+			<string>Satan Is My Master (Live At Ziggy's)</string>
+			<key>Persistent ID</key>
+			<string>555B362E5B9636F5</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3019196</integer>
+			<key>Total Time</key>
+			<integer>93466</integer>
+			<key>Track ID</key>
+			<integer>480</integer>
+			<key>Track Number</key>
+			<integer>11</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>482</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:40Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/12%20Julianne%20(Live%20At%20LA2).mp3</string>
+			<key>Name</key>
+			<string>Julianne (Live At LA2)</string>
+			<key>Persistent ID</key>
+			<string>49551BFAFD946235</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5003653</integer>
+			<key>Total Time</key>
+			<integer>155480</integer>
+			<key>Track ID</key>
+			<integer>482</integer>
+			<key>Track Number</key>
+			<integer>12</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>484</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:42Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/15%20Twin%20Falls%20(Live%20At%20Club%20Quattro).mp3</string>
+			<key>Name</key>
+			<string>Twin Falls (Live At Club Quattro)</string>
+			<key>Persistent ID</key>
+			<string>3D45C783B33E4545</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4679327</integer>
+			<key>Total Time</key>
+			<integer>145345</integer>
+			<key>Track ID</key>
+			<integer>484</integer>
+			<key>Track Number</key>
+			<integer>15</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>486</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:42Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/16%20Boxing%20(Live%20At%20Club%20Quattro).mp3</string>
+			<key>Name</key>
+			<string>Boxing (Live At Club Quattro)</string>
+			<key>Persistent ID</key>
+			<string>6AB2CCA9CEBC58A6</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>8954210</integer>
+			<key>Total Time</key>
+			<integer>278935</integer>
+			<key>Track ID</key>
+			<integer>486</integer>
+			<key>Track Number</key>
+			<integer>16</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>488</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:38Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/03%20Emaline.mp3</string>
+			<key>Name</key>
+			<string>Emaline</string>
+			<key>Persistent ID</key>
+			<string>7786FBB049227D44</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6544235</integer>
+			<key>Total Time</key>
+			<integer>203624</integer>
+			<key>Track ID</key>
+			<integer>488</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>490</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:38Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/05%20Dick%20Holster.mp3</string>
+			<key>Name</key>
+			<string>Dick Holster</string>
+			<key>Persistent ID</key>
+			<string>215290BC5E264E3C</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>948602</integer>
+			<key>Total Time</key>
+			<integer>28760</integer>
+			<key>Track ID</key>
+			<integer>490</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>492</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:38Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/06%20Tom%20&amp;%20Mary.mp3</string>
+			<key>Name</key>
+			<string>Tom &amp; Mary</string>
+			<key>Persistent ID</key>
+			<string>EBF235D889DC1B26</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5022031</integer>
+			<key>Total Time</key>
+			<integer>156055</integer>
+			<key>Track ID</key>
+			<integer>492</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>494</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:38Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/07%20For%20Those%20Of%20Ya'll%20Who%20Wear%20Fanny%20Packs.mp3</string>
+			<key>Name</key>
+			<string>For Those Of Ya'll Who Wear Fanny Packs</string>
+			<key>Persistent ID</key>
+			<string>052C9F6453433739</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>11769593</integer>
+			<key>Total Time</key>
+			<integer>366915</integer>
+			<key>Track ID</key>
+			<integer>494</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>496</key>
+		<dict>
+			<key>Album</key>
+			<string>Naked Baby Photos</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>256</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:40Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Naked%20Baby%20Photos/08%20Bad%20Idea%20(Original%20Demo).mp3</string>
+			<key>Name</key>
+			<string>Bad Idea (Original Demo)</string>
+			<key>Persistent ID</key>
+			<string>419A9B3B1A8EA1BC</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4104207</integer>
+			<key>Total Time</key>
+			<integer>127373</integer>
+			<key>Track ID</key>
+			<integer>496</integer>
+			<key>Track Number</key>
+			<integer>8</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1998</integer>
+		</dict>
+		<key>498</key>
+		<dict>
+			<key>Album</key>
+			<string>Oasis Cover</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Live</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:42Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Blues</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Fold's%20Five/Oasis%20Cover/Champagne%20Supernova%20(oasis...).mp3</string>
+			<key>Name</key>
+			<string>Champagne Supernova (oasis...)</string>
+			<key>Persistent ID</key>
+			<string>FC111C04C0FD1489</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>1523696</integer>
+			<key>Total Time</key>
+			<integer>95216</integer>
+			<key>Track ID</key>
+			<integer>498</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+		</dict>
+		<key>500</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:48Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/01%20Narcolepsy.mp3</string>
+			<key>Name</key>
+			<string>Narcolepsy</string>
+			<key>Persistent ID</key>
+			<string>546E559FAF329F8A</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5205959</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>324911</integer>
+			<key>Track ID</key>
+			<integer>500</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>502</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>194</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/10%20Jane.mp3</string>
+			<key>Name</key>
+			<string>Jane</string>
+			<key>Persistent ID</key>
+			<string>9902942D0BC338FF</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4003830</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>164388</integer>
+			<key>Track ID</key>
+			<integer>502</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>504</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>200</integer>
+			<key>Composer</key>
+			<string>Anna Goodman/Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/11%20Lullabye.mp3</string>
+			<key>Name</key>
+			<string>Lullabye</string>
+			<key>Persistent ID</key>
+			<string>24350DFB478D67BA</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5834820</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>233090</integer>
+			<key>Track ID</key>
+			<integer>504</integer>
+			<key>Track Number</key>
+			<integer>11</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>506</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>207</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:48Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/02%20Don't%20Change%20Your%20Plans.mp3</string>
+			<key>Name</key>
+			<string>Don't Change Your Plans</string>
+			<key>Persistent ID</key>
+			<string>B65767675496629E</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>8067213</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>310595</integer>
+			<key>Track ID</key>
+			<integer>506</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>508</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>220</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:48Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/03%20Mess.mp3</string>
+			<key>Name</key>
+			<string>Mess</string>
+			<key>Persistent ID</key>
+			<string>D5CAC104244E8984</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6696543</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>243017</integer>
+			<key>Track ID</key>
+			<integer>508</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>512</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>195</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:48Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/05%20Hospital%20Song.mp3</string>
+			<key>Name</key>
+			<string>Hospital Song</string>
+			<key>Persistent ID</key>
+			<string>55187D265973BE66</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3052456</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-12T04:58:44Z</date>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>124917</integer>
+			<key>Track ID</key>
+			<integer>512</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>514</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>211</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/06%20Army.mp3</string>
+			<key>Name</key>
+			<string>Army</string>
+			<key>Persistent ID</key>
+			<string>A59D10398199F527</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5394096</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>203520</integer>
+			<key>Track ID</key>
+			<integer>514</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>516</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>216</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/07%20Your%20Redneck%20Past.mp3</string>
+			<key>Name</key>
+			<string>Your Redneck Past</string>
+			<key>Persistent ID</key>
+			<string>0CB1A7F1C7CA78CB</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6023469</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>222746</integer>
+			<key>Track ID</key>
+			<integer>516</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>518</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Ben Folds/Caleb Southern/Darren Jessee/Dean Folds/Robert Sledge</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/08%20Your%20Most%20Valuable%20Possession.mp3</string>
+			<key>Name</key>
+			<string>Your Most Valuable Possession</string>
+			<key>Persistent ID</key>
+			<string>CED6F72E6B343F99</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>2824831</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>116897</integer>
+			<key>Track ID</key>
+			<integer>518</integer>
+			<key>Track Number</key>
+			<integer>8</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>520</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>208</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/09%20Regrets.mp3</string>
+			<key>Name</key>
+			<string>Regrets</string>
+			<key>Persistent ID</key>
+			<string>A8DB1FE781643A71</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6513491</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>249312</integer>
+			<key>Track ID</key>
+			<integer>520</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>1999</integer>
+		</dict>
+		<key>522</key>
+		<dict>
+			<key>Album</key>
+			<string>Unknown</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:04Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Indie Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Fold's%20Five/Unknown/Barrytown.mp3</string>
+			<key>Name</key>
+			<string>Barrytown</string>
+			<key>Persistent ID</key>
+			<string>B0ED2696040F1EFD</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5486888</integer>
+			<key>Total Time</key>
+			<integer>228937</integer>
+			<key>Track ID</key>
+			<integer>522</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2000</integer>
+		</dict>
+		<key>524</key>
+		<dict>
+			<key>Album</key>
+			<string>Unknown</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Indie Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Fold's%20Five/Unknown/Freebird.mp3</string>
+			<key>Name</key>
+			<string>Freebird</string>
+			<key>Persistent ID</key>
+			<string>342CDEB0FEC59EC4</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>2944916</integer>
+			<key>Total Time</key>
+			<integer>183353</integer>
+			<key>Track ID</key>
+			<integer>524</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>526</key>
+		<dict>
+			<key>Album</key>
+			<string>Unknown</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Indie Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Fold's%20Five/Unknown/Raindrops.mp3</string>
+			<key>Name</key>
+			<string>Raindrops</string>
+			<key>Persistent ID</key>
+			<string>6DA4E8D0537CD679</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3168975</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-15T06:40:51Z</date>
+			<key>Total Time</key>
+			<integer>198504</integer>
+			<key>Track ID</key>
+			<integer>526</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>528</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/01%20One%20Angry%20Dwarf%20and%20200%20Solemn%20Faces.mp3</string>
+			<key>Name</key>
+			<string>One Angry Dwarf and 200 Solemn Faces</string>
+			<key>Persistent ID</key>
+			<string>44A09D2B4356B6F9</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3750956</integer>
+			<key>Total Time</key>
+			<integer>232672</integer>
+			<key>Track ID</key>
+			<integer>528</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>530</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/10%20Battle%20of%20Who%20Could%20Care%20Less.mp3</string>
+			<key>Name</key>
+			<string>Battle of Who Could Care Less</string>
+			<key>Persistent ID</key>
+			<string>C2AC1117C3146EFA</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3158283</integer>
+			<key>Total Time</key>
+			<integer>195631</integer>
+			<key>Track ID</key>
+			<integer>530</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>534</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:54Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/12%20Evaporated.mp3</string>
+			<key>Name</key>
+			<string>Evaporated</string>
+			<key>Persistent ID</key>
+			<string>FFF7A710805C871C</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5486297</integer>
+			<key>Total Time</key>
+			<integer>341133</integer>
+			<key>Track ID</key>
+			<integer>534</integer>
+			<key>Track Number</key>
+			<integer>12</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>536</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/02%20Fair.mp3</string>
+			<key>Name</key>
+			<string>Fair</string>
+			<key>Persistent ID</key>
+			<string>384A006BE149AF6E</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5724110</integer>
+			<key>Total Time</key>
+			<integer>355996</integer>
+			<key>Track ID</key>
+			<integer>536</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>538</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/03%20Brick.mp3</string>
+			<key>Name</key>
+			<string>Brick</string>
+			<key>Persistent ID</key>
+			<string>B45F32B9348A3DC4</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4388731</integer>
+			<key>Total Time</key>
+			<integer>272535</integer>
+			<key>Track ID</key>
+			<integer>538</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>540</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/04%20Song%20for%20the%20Dumped.mp3</string>
+			<key>Name</key>
+			<string>Song for the Dumped</string>
+			<key>Persistent ID</key>
+			<string>CE100298512B875C</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3545304</integer>
+			<key>Total Time</key>
+			<integer>219820</integer>
+			<key>Track ID</key>
+			<integer>540</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>542</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/05%20Selfless,%20Cold%20and%20Composed.mp3</string>
+			<key>Name</key>
+			<string>Selfless, Cold and Composed</string>
+			<key>Persistent ID</key>
+			<string>57DAD54455108C6B</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5950249</integer>
+			<key>Total Time</key>
+			<integer>370128</integer>
+			<key>Track ID</key>
+			<integer>542</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>544</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/06%20Kate.mp3</string>
+			<key>Name</key>
+			<string>Kate</string>
+			<key>Persistent ID</key>
+			<string>689F1AE919A187C3</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3129837</integer>
+			<key>Total Time</key>
+			<integer>193854</integer>
+			<key>Track ID</key>
+			<integer>544</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>546</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/07%20Smoke.mp3</string>
+			<key>Name</key>
+			<string>Smoke</string>
+			<key>Persistent ID</key>
+			<string>729B41ABCD333169</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4714321</integer>
+			<key>Total Time</key>
+			<integer>292884</integer>
+			<key>Track ID</key>
+			<integer>546</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>548</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/08%20Cigarette.mp3</string>
+			<key>Name</key>
+			<string>Cigarette</string>
+			<key>Persistent ID</key>
+			<string>8FDB16204FD29BB0</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>1602200</integer>
+			<key>Total Time</key>
+			<integer>98377</integer>
+			<key>Track ID</key>
+			<integer>548</integer>
+			<key>Track Number</key>
+			<integer>8</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>550</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever and Ever Amen</string>
+			<key>Album Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artist</key>
+			<string>Ben Fold's Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T13:40:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20and%20Ever%20Amen/09%20Stevens%20last%20night%20in%20town.mp3</string>
+			<key>Name</key>
+			<string>Stevens last night in town</string>
+			<key>Persistent ID</key>
+			<string>0654B1CF9B5B059E</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3371857</integer>
+			<key>Total Time</key>
+			<integer>208979</integer>
+			<key>Track ID</key>
+			<integer>550</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>552</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Folds, Ben</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T06:48:50Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/01%20Intro%20-%20One%20Angry%20Dwarf%20And%20200%20Solemn%20Faces.mp3</string>
+			<key>Name</key>
+			<string>Intro - One Angry Dwarf And 200 Solemn Faces</string>
+			<key>Persistent ID</key>
+			<string>8FA24BBC3407F51D</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6180015</integer>
+			<key>Total Time</key>
+			<integer>257097</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>552</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>554</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Elton John and Bernie Taupin</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T06:12:22Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/13%20Tiny%20Dancer.mp3</string>
+			<key>Name</key>
+			<string>Tiny Dancer</string>
+			<key>Persistent ID</key>
+			<string>21929FA61A15807E</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7777441</integer>
+			<key>Total Time</key>
+			<integer>323657</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>554</integer>
+			<key>Track Number</key>
+			<integer>13</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>556</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Folds, Ben</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T06:53:48Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/14%20Rock%20This%20Bitch.mp3</string>
+			<key>Name</key>
+			<string>Rock This Bitch</string>
+			<key>Persistent ID</key>
+			<string>50972ED6387DE60A</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>1863513</integer>
+			<key>Total Time</key>
+			<integer>77244</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>556</integer>
+			<key>Track Number</key>
+			<integer>14</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>558</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Folds, Ben</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T05:26:12Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/02%20Zak%20And%20Sara.mp3</string>
+			<key>Name</key>
+			<string>Zak And Sara</string>
+			<key>Persistent ID</key>
+			<string>1DBB8C3ADE4B6933</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4912940</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-15T06:11:35Z</date>
+			<key>Total Time</key>
+			<integer>204303</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>558</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>560</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Folds, Ben</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T04:32:10Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/03%20Silver%20Street.mp3</string>
+			<key>Name</key>
+			<string>Silver Street</string>
+			<key>Persistent ID</key>
+			<string>DAB3663F22DE7A98</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5334870</integer>
+			<key>Total Time</key>
+			<integer>221884</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>560</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>562</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Album Artist</key>
+			<string>Ben Folds</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Folds, Ben</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T05:14:26Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/07%20One%20Down.mp3</string>
+			<key>Name</key>
+			<string>One Down</string>
+			<key>Persistent ID</key>
+			<string>13E9D701B4C10083</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5852321</integer>
+			<key>Total Time</key>
+			<integer>243435</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>562</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>564</key>
+		<dict>
+			<key>Album</key>
+			<string>Ben Folds Live</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Ben Folds and Darren Jessee</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T06:28:00Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Ben%20Folds%20Live/09%20Brick.mp3</string>
+			<key>Name</key>
+			<string>Brick</string>
+			<key>Persistent ID</key>
+			<string>720456264B6EF392</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6857714</integer>
+			<key>Total Time</key>
+			<integer>285335</integer>
+			<key>Track Count</key>
+			<integer>17</integer>
+			<key>Track ID</key>
+			<integer>564</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2002</integer>
+		</dict>
+		<key>566</key>
+		<dict>
+			<key>Album</key>
+			<string>Live, Rare, B-sides and Others</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:40Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Live,%20Rare,%20B-sides%20and%20Others/Bitches%20Ain't%20Shit%20%5BDr.%20Dre%20Cover%5D.mp3</string>
+			<key>Name</key>
+			<string>Bitches Ain't Shit [Dr. Dre Cover]</string>
+			<key>Persistent ID</key>
+			<string>AA3E30F682AB12E5</string>
+			<key>Sample Rate</key>
+			<integer>48000</integer>
+			<key>Size</key>
+			<integer>4690777</integer>
+			<key>Total Time</key>
+			<integer>234528</integer>
+			<key>Track ID</key>
+			<integer>566</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>568</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Comments</key>
+			<string>[EGO] --+- EGO --+-- [EGO]</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:05Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:01Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin%20The%20Suburbs/Rockin%20The%20Suburbs.mp3</string>
+			<key>Name</key>
+			<string>Rockin The Suburbs</string>
+			<key>Persistent ID</key>
+			<string>900DA7B375CA563A</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7153760</integer>
+			<key>Total Time</key>
+			<integer>298501</integer>
+			<key>Track ID</key>
+			<integer>568</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>570</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Donovan Tooley, Egyptologist</string>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T05:45:06Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/01%20Annie%20Waits.mp3</string>
+			<key>Name</key>
+			<string>Annie Waits</string>
+			<key>Persistent ID</key>
+			<string>F796E588B02EDD9C</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4145634</integer>
+			<key>Total Time</key>
+			<integer>258507</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>570</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>572</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Donovan Tooley, Egyptologist</string>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T05:05:30Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/10%20Rockin'%20The%20Suburbs.mp3</string>
+			<key>Name</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Persistent ID</key>
+			<string>1EF32FE5483F636F</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4785956</integer>
+			<key>Total Time</key>
+			<integer>298527</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>572</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>574</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Donovan Tooley, Egyptologist</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T02:31:20Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/11%20Fired.mp3</string>
+			<key>Name</key>
+			<string>Fired</string>
+			<key>Persistent ID</key>
+			<string>27206B87B0C03848</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3680230</integer>
+			<key>Total Time</key>
+			<integer>229459</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>574</integer>
+			<key>Track Number</key>
+			<integer>11</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>576</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' the Suburbs</string>
+			<key>Album Artist</key>
+			<string>Ben Folds</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>64</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-04-24T00:22:25Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock/Pop</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20the%20Suburbs/12%20The%20Luckiest.mp3</string>
+			<key>Name</key>
+			<string>The Luckiest</string>
+			<key>Persistent ID</key>
+			<string>3CE2B0C9954EAC1D</string>
+			<key>Sample Rate</key>
+			<integer>22050</integer>
+			<key>Size</key>
+			<integer>2133601</integer>
+			<key>Sort Name</key>
+			<string>Luckiest</string>
+			<key>Total Time</key>
+			<integer>265404</integer>
+			<key>Track ID</key>
+			<integer>576</integer>
+			<key>Track Number</key>
+			<integer>12</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>578</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Donovan Tooley, Egyptologist</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T02:37:50Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/02%20Zak%20and%20Sara.mp3</string>
+			<key>Name</key>
+			<string>Zak and Sara</string>
+			<key>Persistent ID</key>
+			<string>F186269889C21C30</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3114133</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-15T06:11:27Z</date>
+			<key>Total Time</key>
+			<integer>194063</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>578</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>580</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T03:43:22Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Other</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/03%20Still%20Fighting%20It.mp3</string>
+			<key>Name</key>
+			<string>Still Fighting It</string>
+			<key>Persistent ID</key>
+			<string>53B912C23058F42F</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4305257</integer>
+			<key>Total Time</key>
+			<integer>268486</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>580</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>582</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Comments</key>
+			<string>[EGO] --+- EGO --+-- [EGO]</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T01:41:20Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/04%20Gone.mp3</string>
+			<key>Name</key>
+			<string>Gone</string>
+			<key>Persistent ID</key>
+			<string>1090AC6C5790722A</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4865284</integer>
+			<key>Total Time</key>
+			<integer>202605</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>582</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>584</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Composer</key>
+			<string>Ben Folds</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T02:36:48Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/05%20Fred%20Jones,%20Part%202.mp3</string>
+			<key>Name</key>
+			<string>Fred Jones, Part 2</string>
+			<key>Persistent ID</key>
+			<string>9C08CBCD304931F1</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4529195</integer>
+			<key>Total Time</key>
+			<integer>225985</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>584</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>586</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Donovan Tooley, Egyptologist</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:06Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T04:59:38Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/07%20Losing%20Lisa.mp3</string>
+			<key>Name</key>
+			<string>Losing Lisa</string>
+			<key>Persistent ID</key>
+			<string>058831D41D063471</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4029232</integer>
+			<key>Total Time</key>
+			<integer>251271</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>586</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>590</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-23T21:41:40Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/09%20Not%20The%20Same.mp3</string>
+			<key>Name</key>
+			<string>Not The Same</string>
+			<key>Persistent ID</key>
+			<string>23505C819D546E3D</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4133898</integer>
+			<key>Total Time</key>
+			<integer>257802</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>590</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+		</dict>
+		<key>592</key>
+		<dict>
+			<key>Album</key>
+			<string>Rockin' The Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Comments</key>
+			<string>Donovan Tooley, Egyptologist</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:03:52Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Rockin'%20The%20Suburbs/The%20Ascent%20of%20Stan.mp3</string>
+			<key>Name</key>
+			<string>The Ascent of Stan</string>
+			<key>Persistent ID</key>
+			<string>62DACFDF2999DDBD</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4058929</integer>
+			<key>Sort Name</key>
+			<string>Ascent of Stan</string>
+			<key>Total Time</key>
+			<integer>253675</integer>
+			<key>Track ID</key>
+			<integer>592</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>604</key>
+		<dict>
+			<key>Album</key>
+			<string>Songs For Silverman</string>
+			<key>Album Artist</key>
+			<string>Ben Folds</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>184</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T05:36:28Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Alternative Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Songs%20For%20Silverman/05%20Gracie.mp3</string>
+			<key>Name</key>
+			<string>Gracie</string>
+			<key>Persistent ID</key>
+			<string>67C68BC03F893ECB</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3737873</integer>
+			<key>Total Time</key>
+			<integer>160391</integer>
+			<key>Track ID</key>
+			<integer>604</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Volume Adjustment</key>
+			<integer>255</integer>
+			<key>Year</key>
+			<integer>2005</integer>
+		</dict>
+		<key>614</key>
+		<dict>
+			<key>Album</key>
+			<string>Songs For Silverman</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-04-12T00:44:16Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Songs%20For%20Silverman/Landed.mp3</string>
+			<key>Name</key>
+			<string>Landed</string>
+			<key>Persistent ID</key>
+			<string>C7B1FC5EB671C96A</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5595912</integer>
+			<key>Total Time</key>
+			<integer>267075</integer>
+			<key>Track ID</key>
+			<integer>614</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>616</key>
+		<dict>
+			<key>Album</key>
+			<string>Songs For Silverman Leak</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2006-08-10T05:39:48Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Songs%20For%20Silverman%20Leak/01%20Bastard.mp3</string>
+			<key>Name</key>
+			<string>Bastard</string>
+			<key>Persistent ID</key>
+			<string>0DA1627871EF322D</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7574879</integer>
+			<key>Total Time</key>
+			<integer>315585</integer>
+			<key>Track ID</key>
+			<integer>616</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2005</integer>
+		</dict>
+		<key>618</key>
+		<dict>
+			<key>Album</key>
+			<string>Speed Graphic</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-23T21:25:02Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Indie Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Speed%20Graphic/03%20Protection.mp3</string>
+			<key>Name</key>
+			<string>Protection</string>
+			<key>Persistent ID</key>
+			<string>7184087C37CADBCB</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5641867</integer>
+			<key>Total Time</key>
+			<integer>278804</integer>
+			<key>Track Count</key>
+			<integer>14</integer>
+			<key>Track ID</key>
+			<integer>618</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>622</key>
+		<dict>
+			<key>Album</key>
+			<string>Sunny 16 EP</string>
+			<key>Album Artist</key>
+			<string>Ben Folds</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>192</integer>
+			<key>Composer</key>
+			<string>Ben Folds/Frally Hynes</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-23T21:46:34Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Sunny%2016%20EP/04%20Rockstar.mp3</string>
+			<key>Name</key>
+			<string>Rockstar</string>
+			<key>Persistent ID</key>
+			<string>B2FD447471417EB8</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>6333141</integer>
+			<key>Total Time</key>
+			<integer>263523</integer>
+			<key>Track ID</key>
+			<integer>622</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2003</integer>
+		</dict>
+		<key>626</key>
+		<dict>
+			<key>Album</key>
+			<string>Super D</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-25T05:29:22Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Indie Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Super%20D/05%20Them%20That%20Got.mp3</string>
+			<key>Name</key>
+			<string>Them That Got</string>
+			<key>Persistent ID</key>
+			<string>E5D84B5A9D9109F8</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>2580509</integer>
+			<key>Total Time</key>
+			<integer>122305</integer>
+			<key>Track Count</key>
+			<integer>5</integer>
+			<key>Track ID</key>
+			<integer>626</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2004</integer>
+		</dict>
+		<key>628</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:26Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/01%20In%20Between%20Days.mp3</string>
+			<key>Name</key>
+			<string>In Between Days</string>
+			<key>Persistent ID</key>
+			<string>A82379C44BA55D34</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7041152</integer>
+			<key>Total Time</key>
+			<integer>174785</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>628</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>630</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:38Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/10%20Bruised.mp3</string>
+			<key>Name</key>
+			<string>Bruised</string>
+			<key>Persistent ID</key>
+			<string>0877F7A9C56AFC2A</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>11049088</integer>
+			<key>Total Time</key>
+			<integer>274991</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>630</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>634</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:42Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/12%20Still.mp3</string>
+			<key>Name</key>
+			<string>Still</string>
+			<key>Persistent ID</key>
+			<string>F030FFCEFC75F54B</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>18729088</integer>
+			<key>Total Time</key>
+			<integer>466991</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>634</integer>
+			<key>Track Number</key>
+			<integer>12</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>636</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:28Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/02%20All%20U%20Can%20Eat.mp3</string>
+			<key>Name</key>
+			<string>All U Can Eat</string>
+			<key>Persistent ID</key>
+			<string>490DC0F522185093</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7460992</integer>
+			<key>Total Time</key>
+			<integer>185286</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>636</integer>
+			<key>Track Number</key>
+			<integer>2</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>638</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:30Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/03%20Songs%20of%20Love.mp3</string>
+			<key>Name</key>
+			<string>Songs of Love</string>
+			<key>Persistent ID</key>
+			<string>A1FBDDC915D8B770</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>8781952</integer>
+			<key>Total Time</key>
+			<integer>218331</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>638</integer>
+			<key>Track Number</key>
+			<integer>3</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>640</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:30Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/04%20There's%20Always%20Someone%20Cooler%20Than%20You.mp3</string>
+			<key>Name</key>
+			<string>There's Always Someone Cooler Than You</string>
+			<key>Persistent ID</key>
+			<string>D63FD2C1CC55DDE0</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>10139776</integer>
+			<key>Total Time</key>
+			<integer>252238</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>640</integer>
+			<key>Track Number</key>
+			<integer>4</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>642</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:32Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/05%20Learn%20to%20Live%20With%20What%20You%20Are.mp3</string>
+			<key>Name</key>
+			<string>Learn to Live With What You Are</string>
+			<key>Persistent ID</key>
+			<string>31D3054BB4D12CE0</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>10770560</integer>
+			<key>Total Time</key>
+			<integer>268042</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>642</integer>
+			<key>Track Number</key>
+			<integer>5</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>644</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:34Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/06%20Bitches%20Ain't%20Shit.mp3</string>
+			<key>Name</key>
+			<string>Bitches Ain't Shit</string>
+			<key>Persistent ID</key>
+			<string>CF91773215D3B11E</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>10098816</integer>
+			<key>Total Time</key>
+			<integer>251219</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>644</integer>
+			<key>Track Number</key>
+			<integer>6</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>646</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:34Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/07%20Adelaide.mp3</string>
+			<key>Name</key>
+			<string>Adelaide</string>
+			<key>Persistent ID</key>
+			<string>025D32B2227EC7A6</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>7768192</integer>
+			<key>Skip Count</key>
+			<integer>1</integer>
+			<key>Skip Date</key>
+			<date>2017-08-12T05:04:28Z</date>
+			<key>Total Time</key>
+			<integer>192992</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>646</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>650</key>
+		<dict>
+			<key>Album</key>
+			<string>Supersunnyspeedgraphic, the LP</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>320</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-11-26T20:09:36Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Supersunnyspeedgraphic,%20the%20LP/09%20Get%20Your%20Hands%20Off%20My%20Woman.mp3</string>
+			<key>Name</key>
+			<string>Get Your Hands Off My Woman</string>
+			<key>Persistent ID</key>
+			<string>F79E5BA9D583C5E5</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>8693888</integer>
+			<key>Total Time</key>
+			<integer>216111</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>650</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2006</integer>
+		</dict>
+		<key>652</key>
+		<dict>
+			<key>Album</key>
+			<string>Unknown</string>
+			<key>Artist</key>
+			<string>Ben Folds</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-07-23T21:05:18Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Indie Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds/Unknown/07%20Golden%20Slumbers.mp3</string>
+			<key>Name</key>
+			<string>Golden Slumbers</string>
+			<key>Persistent ID</key>
+			<string>77C96E2EE46DFE80</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>1662976</integer>
+			<key>Total Time</key>
+			<integer>103836</integer>
+			<key>Track ID</key>
+			<integer>652</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>660</key>
+		<dict>
+			<key>Album</key>
+			<string>Rocking the Suburbs</string>
+			<key>Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:01Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Rocking%20the%20Suburbs/Zac%20and%20Sara.mp3</string>
+			<key>Name</key>
+			<string>Zac and Sara</string>
+			<key>Persistent ID</key>
+			<string>E15B67F5E1512CD3</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3136783</integer>
+			<key>Total Time</key>
+			<integer>196022</integer>
+			<key>Track ID</key>
+			<integer>660</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2001</integer>
+		</dict>
+		<key>662</key>
+		<dict>
+			<key>Album</key>
+			<string>The Unauthorized Biography of Reinhold Messner</string>
+			<key>Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:07Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:01Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/The%20Unauthorized%20Biography%20of%20Reinhold%20Messner/01%20Narcolepsy%202.mp3</string>
+			<key>Name</key>
+			<string>Narcolepsy</string>
+			<key>Persistent ID</key>
+			<string>989EC0C68D9C96A8</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>5201097</integer>
+			<key>Sort Album</key>
+			<string>Unauthorized Biography of Reinhold Messner</string>
+			<key>Total Time</key>
+			<integer>324911</integer>
+			<key>Track Count</key>
+			<integer>11</integer>
+			<key>Track ID</key>
+			<integer>662</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+		</dict>
+		<key>676</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever &amp; Ever Amen</string>
+			<key>Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Artwork Count</key>
+			<integer>1</integer>
+			<key>Bit Rate</key>
+			<integer>160</integer>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:08Z</date>
+			<key>Date Modified</key>
+			<date>2005-11-16T16:32:18Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20&amp;%20Ever%20Amen/01%20One%20Angry%20Dwarf%20and%20200%20Solemn%20Faces.mp3</string>
+			<key>Name</key>
+			<string>One Angry Dwarf and 200 Solemn Faces</string>
+			<key>Persistent ID</key>
+			<string>E4D88ADE008C6A07</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>4680561</integer>
+			<key>Total Time</key>
+			<integer>232620</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>676</integer>
+			<key>Track Number</key>
+			<integer>1</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1997</integer>
+		</dict>
+		<key>678</key>
+		<dict>
+			<key>Album</key>
+			<string>Whatever And Ever Amen</string>
+			<key>Artist</key>
+			<string>Ben Folds Five</string>
+			<key>Bit Rate</key>
+			<integer>96</integer>
+			<key>Comments</key>
+			<string>Made with RealJukebox (tm)</string>
+			<key>Date Added</key>
+			<date>2017-08-12T03:40:08Z</date>
+			<key>Date Modified</key>
+			<date>2007-03-10T21:01:01Z</date>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>MPEG audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Ben%20Folds%20Five/Whatever%20And%20Ever%20Amen/07%20Smoke%202.mp3</string>
+			<key>Name</key>
+			<string>Smoke</string>
+			<key>Persistent ID</key>
+			<string>E9A5AF725615E168</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3508790</integer>
+			<key>Total Time</key>
+			<integer>292388</integer>
+			<key>Track ID</key>
+			<integer>678</integer>
+			<key>Track Number</key>
+			<integer>7</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2000</integer>
+		</dict>
+		<key>984</key>
+		<dict>
+			<key>Album</key>
+			<string>Greatest Hits</string>
+			<key>Artist</key>
+			<string>Steve Miller Band</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Compilation</key>
+			<true/>
+			<key>Composer</key>
+			<string>Steve Miller</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:01:44Z</date>
+			<key>Date Modified</key>
+			<date>2005-08-24T04:37:39Z</date>
+			<key>Disc Count</key>
+			<integer>1</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>AAC audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Compilations/Greatest%20Hits/09%20Fly%20Like%20An%20Eagle.m4a</string>
+			<key>Name</key>
+			<string>Fly Like An Eagle</string>
+			<key>Persistent ID</key>
+			<string>44B3CA8E8278692F</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3012596</integer>
+			<key>Total Time</key>
+			<integer>184899</integer>
+			<key>Track Count</key>
+			<integer>14</integer>
+			<key>Track ID</key>
+			<integer>984</integer>
+			<key>Track Number</key>
+			<integer>9</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>1978</integer>
+		</dict>
+		<key>990</key>
+		<dict>
+			<key>Album</key>
+			<string>Instant Karma: The Amnesty International Campaign To Save Darfur [1/2] {Detailed-Info!}</string>
+			<key>Artist</key>
+			<string>Instant KarmA</string>
+			<key>Bit Rate</key>
+			<integer>128</integer>
+			<key>Compilation</key>
+			<true/>
+			<key>Composer</key>
+			<string>John Lennon</string>
+			<key>Date Added</key>
+			<date>2017-08-12T05:01:44Z</date>
+			<key>Date Modified</key>
+			<date>2007-06-20T16:11:36Z</date>
+			<key>Disc Count</key>
+			<integer>2</integer>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>File Folder Count</key>
+			<integer>5</integer>
+			<key>Genre</key>
+			<string>Rock</string>
+			<key>Kind</key>
+			<string>AAC audio file</string>
+			<key>Library Folder Count</key>
+			<integer>1</integer>
+			<key>Location</key>
+			<string>file:///Users/athair/Music/iTunes/iTunes%20Media/Music/Compilations/Instant%20Karma_%20The%20Amnesty%20International%20Campaign%20To%20Save%20Darfur%20%5B1_2%5D%20%7BDetailed-Info!%7D/1-10%20Imagine.m4a</string>
+			<key>Name</key>
+			<string>Imagine</string>
+			<key>Persistent ID</key>
+			<string>AF69E0D7FC4D0233</string>
+			<key>Sample Rate</key>
+			<integer>44100</integer>
+			<key>Size</key>
+			<integer>3118717</integer>
+			<key>Total Time</key>
+			<integer>192320</integer>
+			<key>Track Count</key>
+			<integer>12</integer>
+			<key>Track ID</key>
+			<integer>990</integer>
+			<key>Track Number</key>
+			<integer>10</integer>
+			<key>Track Type</key>
+			<string>File</string>
+			<key>Year</key>
+			<integer>2007</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
